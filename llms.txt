@@ -1,0 +1,11 @@
+# ALIX-IMMO
+
+> Les biens de l'agence ALIX-IMMO.
+
+- E-mail: c.desprez@alix-immo.fr
+- Site web: http://www.alix-immo.fr
+- Adresse: 18 rue Gauthey, 75017 Paris 17ème
+
+## Biens (2)
+- Vente appartement 3 pièces 72 m² à Courbevoie (92) — Hôtel de Ville, 568 000 €: vente-appartement-3-pieces-72-m2-a-courbevoie-92-109181593/
+- Vente appartement 6 pièces 147 m² à Paris 16ème (75) — Passy, 2 490 000 €: vente-appartement-6-pieces-147-m2-a-paris-16eme-75-109438939/
